@@ -1,2 +1,2 @@
 # app_get_repositories
-An api to find repositories and return repositories
+An API to find and return repositories... basic stuff
